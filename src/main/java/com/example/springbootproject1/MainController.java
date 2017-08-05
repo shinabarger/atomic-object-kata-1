@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.RestController;
  * Created by davidshinabarger on 8/5/17.
  */
 
-@RequestMapping("/")
+@RequestMapping("/api")
 @RestController
 
 public class MainController {
