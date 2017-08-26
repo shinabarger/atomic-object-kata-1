@@ -12,4 +12,8 @@ public class DemoApplication {
 		System.out.println();
 		System.out.println("DEPLOY SUCCESSFUL.");
 	}
+
+	public static String returnAString(String something) {
+		return something;
+	}
 }
